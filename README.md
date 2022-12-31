@@ -8,4 +8,16 @@ This is a React application that allows users to add names to a list. It demonst
 - `useState hook`: The component uses the useState hook to store and update data in response to user interactions.
 - **Styling React components**: The component uses various techniques to style React components, including inline styles, CSS classes, and CSS modules.
 - Working with React components: The component demonstrates how to work with React components, including rendering, props, state, and lifecycle methods.
+## How to use
+1. Clone the repository and navigate to the directory:
+- **git clone https://github.com/haiderali780/add-user-list.git**
+- **cd dummy-login-form**
+2. Install the dependencies:
+**npm install**
+3. Start the development server:
+**npm start**
+4. The login form will be available at **http://localhost:3000**.
+
+## License
+This project is not licensed.
 
