@@ -18,6 +18,15 @@ This is a React application that allows users to add names to a list. It demonst
 **npm start**
 4. The login form will be available at **http://localhost:3000**.
 
+## Contributions
+
+If you'd like to contribute to the **AddUserList Project**, please `fork` the repository and create a `pull request` with your changes.
+
+
+
+## Support
+If you have any questions , please contact me at **haiderali782002@gmail.com**
+
 ## License
 This project is not licensed.
 
